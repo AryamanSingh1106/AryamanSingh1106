@@ -44,7 +44,7 @@
 </p>
 
 ### 🐍 Contribution snake
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AryamanSingh1106/output/github-snake-dark.svg" width="100%" />
 
 ### 📫 Let's connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](YOUR_LINK)
